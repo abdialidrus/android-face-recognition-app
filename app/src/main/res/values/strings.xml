@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Face Recognition</string>
+
+    <string name="imageview_content_desc_registration">This will display selected image from the gallery or camera for face registration</string>
+    <string name="imageview_content_desc_recognition">This will display selected image from the gallery or camera for face recognition</string>
+
+    <string name="register">Register</string>
+    <string name="recognize">Recognize</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+
+    <string name="result_placeholder">Pick photo from gallery or take it with camera</string>
+
+    <string name="no_faces_detected">No faces detected. Please try again.</string>
+    <string name="faces_detected">%1$d faces detected</string>
+</resources>
